@@ -1,5 +1,7 @@
 # Starwatch Lock Screen
 
+> **Superseded.** This plugin is now [omarchy-living-lock](https://github.com/prostratepossum/omarchy-living-lock), part of [Omarchy Living Themes](https://github.com/prostratepossum/omarchy-living-themes). It has the same Starwatch scene plus Moonlit Hearth, and switches automatically with your theme. This repository is archived and gets no further updates.
+
 Omarchy's lock screen, reskinned as a night sky.
 
 ![preview](preview.jpg)
